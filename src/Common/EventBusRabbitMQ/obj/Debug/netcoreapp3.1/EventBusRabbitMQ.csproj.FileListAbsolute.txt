@@ -1,0 +1,17 @@
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.deps.json
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.deps.json
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.csprojAssemblyReference.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb

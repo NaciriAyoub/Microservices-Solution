@@ -1,0 +1,15 @@
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Infrastructure.deps.json
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.json
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.dev.json
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Core.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Release\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.csprojAssemblyReference.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Release\netcoreapp3.1\Ordering.Infrastructure.genruntimeconfig.cache

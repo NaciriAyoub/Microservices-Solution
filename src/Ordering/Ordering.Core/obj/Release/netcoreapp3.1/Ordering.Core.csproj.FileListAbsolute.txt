@@ -1,0 +1,9 @@
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\bin\Release\netcoreapp3.1\Ordering.Core.deps.json
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\bin\Release\netcoreapp3.1\Ordering.Core.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\bin\Release\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\obj\Release\netcoreapp3.1\Ordering.Core.csprojAssemblyReference.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\obj\Release\netcoreapp3.1\Ordering.Core.AssemblyInfoInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\obj\Release\netcoreapp3.1\Ordering.Core.AssemblyInfo.cs
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\obj\Release\netcoreapp3.1\Ordering.Core.csproj.CoreCompileInputs.cache
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\obj\Release\netcoreapp3.1\Ordering.Core.dll
+C:\Users\anaciri\Desktop\MyFirstMicroservicesSolution\MicroservicesApp\src\Ordering\Ordering.Core\obj\Release\netcoreapp3.1\Ordering.Core.pdb
